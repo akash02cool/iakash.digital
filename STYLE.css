@@ -1,5 +1,5 @@
 /*****COMMON CSS SECTION*****/
-* {
+ * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
@@ -384,3 +384,117 @@ textarea {
 	font-size: 20px;
 	border-radius: 50%;
 }
+.product-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.product-card img {
+  width: 100%;
+}
+
+.product-card h2 {
+  font-size: 1.5em;
+}
+
+.product-card p {
+  color: grey;
+  font-size: 1em;
+}
+
+.product-card span {
+  color: black;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.product-card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.product-card button:hover {
+  opacity: 0.7;
+}
+/* Base styles for all devices */
+body {
+  font-size: 14px;
+  background: #000000;
+  color: #fff;
+}
+
+/* Styles for devices with a maximum width of 768px (e.g., tablets and smaller) */
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+    padding: 0 20px;
+  }
+  .width-33, .width-66, .width-50 {
+    width: 100%;
+    float: none;
+  }
+  nav {
+    float: none;
+    text-align: center;
+  }
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+  .banner-section h1 {
+    font-size: 36px;
+  }
+  .banner-section h2 {
+    font-size: 18px;
+  }
+  .main-panel img {
+    width: 100%;
+    margin: 0;
+  }
+}
+
+/* Styles for devices with a maximum width of 480px (e.g., mobile phones) */
+@media only screen and (max-width: 480px) {
+  .logo {
+    font-size: 30px;
+  }
+  .banner-section h1 {
+    font-size: 28px;
+  }
+  .banner-section h2 {
+    font-size: 16px;
+  }
+  .service-list {
+    padding: 20px;
+  }
+  .testimonial {
+    width: 100%;
+    margin: 20px 0;
+  }
+}
+.cta-btn {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.cta-btn:hover {
+  background-color: #2980b9;
+  transform: scale(1.05);
+}
+
