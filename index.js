@@ -1,64 +1,28 @@
-document.addEventListener("formtLoaded", function() {
-    fields.Name = document.getElementById('name');
-    fields.email = document.getElementById('email');
-    fields.address = document.getElementById('address');
-    fields.Mobileno = document.getElementById('Mobileno');
-    
-   })
-   function isNotEmpty(value) {
-    if (value == null || typeof value == 'undefined' ) return false;
-    return (value.length > 0);
-   }
-   function isNumber(num) {
-    return (num.length > 0) && !isNaN(num);
-   }
-   function isEmail(email) {
-    let regex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/;
-    return regex.test(String(email).toLowerCase());
-   }
-   function fieldValidation(field, validationFunction) {
-    if (field == null) return false;
-   
-    let isFieldValid = validationFunction(field.value)
-    if (!isFieldValid) {
-    field.className = 'placeholderRed';
+document.addEventListener("DOMContentLoaded", function () {
+
+  const form = document.getElementById("footerForm");
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault(); // stop default submit
+
+    const name = document.getElementById("name").value.trim();
+    const email = document.getElementById("email").value.trim();
+    const message = document.getElementById("message").value.trim();
+
+    // Check if all fields are filled
+    if (name !== "" && email !== "" && message !== "") {
+
+      // Redirect to application page
+      window.location.href = "application.html";
+
     } else {
-    field.className = '';
-    }
-   
-    return isFieldValid;
-   }
-   function isValid() {
-    var valid = true;
-    
-    valid &= fieldValidation(fields.Name, isNotEmpty);
-    valid &= fieldValidation(fields.address, isNotEmpty);
-    valid &= fieldValidation(fields.email, isEmail);
-    valid &= fieldValidation(fields.Mobileno, isNumber);
-   
-    return valid;
-   }
-   class User {
-    constructor(Name,address,email,Mobileno) {
-    this.name = Name;
-    this.address = address;
-    this.email = email;
-    this.Mobileno = Mobileno;
+
+      // Stay on same page
+      alert("Please fill all fields before submitting.");
+      window.location.href = window.location.href;
 
     }
-   }
- function submit(){
-     if ((isvalid)){
-         let usr=new user(name.value,address.value,Mobileno.value,email.value);
-       alert('{$usr.name}' `thanks for registring`);
-       window.location.href="BLOGPAGE.html";
 
-     }
-    else{ 
-        alert("there was an error");
-        window.location.href="index.html";
+  });
 
-   }
- }
- 
-
+});

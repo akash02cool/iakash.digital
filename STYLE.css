@@ -434,7 +434,6 @@ body {
 }
 
 /* Styles for devices with a maximum width of 768px (e.g., tablets and smaller) */
-@media only screen and (max-width: 768px) {
   .container {
     width: 100%;
     padding: 0 20px;
@@ -460,11 +459,10 @@ body {
   .main-panel img {
     width: 100%;
     margin: 0;
-  }
+  
 }
 
-/* Styles for devices with a maximum width of 480px (e.g., mobile phones) */
-@media only screen and (max-width: 480px) {
+
   .logo {
     font-size: 30px;
   }
@@ -496,5 +494,8 @@ body {
 .cta-btn:hover {
   background-color: #2980b9;
   transform: scale(1.05);
+}
+.html {
+  scroll-behavior: smooth;
 }
 
