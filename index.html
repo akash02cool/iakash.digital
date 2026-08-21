@@ -337,7 +337,9 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 <script>
-const htmlContent = '<head><meta name="keywords" content="SEO, optimization, marketing"><title>My Website</title></head>';
+const htmlContent = '<head><meta name="keywords" content="SEO, optimization, marketing"><title>My Website</title><!-- Vercel Web Analytics -->
+<script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
+</head>';
 const optimizedHTML = removeMetaKeywords(htmlContent);
 
 const cleanedLinks = removeDuplicates(socialMediaLinks);
@@ -1023,6 +1025,8 @@ data-ad-slot="2775019145294468"></ins>
     </div>
   </div>
   </footer>    
-  </head>
+  <!-- Vercel Web Analytics -->
+<script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
+</head>
   </body>
   </html>
