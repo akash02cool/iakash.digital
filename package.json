@@ -1,0 +1,19 @@
+{
+  "name": "iakash-digital",
+  "version": "1.0.0",
+  "description": "iAkash Digital - Digital Marketing Services",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Static site - no dev server configured'",
+    "build": "echo 'Static site - no build step required'"
+  },
+  "keywords": [
+    "digital-marketing",
+    "analytics"
+  ],
+  "author": "Akash Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
