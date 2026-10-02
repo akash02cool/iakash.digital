@@ -3,7 +3,7 @@
     flex-wrap: wrap;
 }
 .image{
-    position: absolute;
+    position: center;
     top: 5vh;
     left: 3vw;
     border-radius: 50%;
@@ -11,12 +11,12 @@
     height: auto;
     }
     .video{
-    position: absolute;
+    position: center;
     left: 3vw;
     bottom: 4vw;
     }
     .desc{
-    position: absolute;
+    position: center;
     margin-left: 12cm;
     margin-top: 2cm;
     margin-bottom: 2cm;
