@@ -1,308 +1,174 @@
-navigation menu 
+# iAkash Digital — Website Content & Image Guide
 
-<u>Follow on LinkedIn</u> 
+> Cleaned and reorganized from the supplied `index(1).html`, `main.css`, `postpage.html`, `post.css`, `BLOGPAGE(1).html`, `STYLE(1).css`, and uploaded image assets. Local images are stored in the `assets/` folder included in the ZIP package.
 
-**Port folio** 
+## Brand
 
-Welcome To https://iakash.digital **iAkash Digital** 
+![iAkash Digital logo](assets/iakash-digital-logo.png)
 
-Expert Graphic Design and Web Development Services in India - I'm a passionate graphic designer from india.     OOOO 
+**Website:** https://iakash.digital/  
+**Brand:** iAkash Digital  
+**Tagline:** Digital Marketing Specialist Helping Businesses Grow Online  
+**Services focus:** SEO, Google Ads, Meta Ads, social media, content marketing, analytics, graphic design, and web development.
 
+## Homepage
 
+### Hero and introduction
 
-<!-- Start of picture text -->
-navigation menu<br>A meede><br>y Ser<br>= \—_<br>SS<br><!-- End of picture text -->
+![Akash Agarwal — profile image](assets/about-akash.png)
 
-Digital Marketing Specialist Helping Businesses Grow Online 
+**Hi, I'm Akash Agarwal.**  
+Digital marketing, graphic design, and web development services focused on helping businesses grow online.
 
-navigation menu 
+Primary calls to action:
+- View My Work
+- View My Resume
+- Contact Me
 
-### About Us 
+### About
 
-SEO • Google Ads • Meta Ads • Social Media • Content Marketing • Analytics 
+The homepage source uses the profile image for the About section and describes services including SEO, Google Ads, Meta Ads, social media, content marketing, and analytics.
 
-#### View My Work 
+### Skills
 
-View My Work 
+The source lists web-development skills and percentages. These are transcribed from the website content and are not independently verified:
 
-#### View My Resume 
+- HTML — 95%
+- CSS — 91%
+- JavaScript — 85%
+- React.js — 79%
+- jQuery — 85%
+- Node.js — 65%
+- CMD — 85%
 
-View My Resume Download my Resume **name** AKASH AGARWAL **email** akashhrs57@gmail.com **BIRTHDAY** 02 DECEMBER, 1997 **Study** swami vivekanand subharti university **Phone:** +91 987-011-3409 **City:** Gurgaon, india **iakashdigital:** Available **Website:** https://iakash.digital/ 
+Related skill images supplied with the project:
 
-AKASH AGARWAL iakashdigital (+91) 987-011-3409 akashhrs57@gmail.com 
+![JavaScript logo](assets/javascript-logo.png)
 
-### My Skills 
+![PHP logo](assets/php-logo.png)
 
+![Python logo](assets/python-logo.jpg)
 
+![TypeScript logo](assets/typescript-logo.jpg)
 
-<!-- Start of picture text -->
-HTML 95%<br>CSS 91%<br>JavaScript 85%<br>React js 79%<br>React-65<br><> =<br><!-- End of picture text -->
+### Education and experience
 
+The website source contains the following education and experience entries. Some dates and labels in the original page are unclear, so they have been retained only where readable:
 
+- Swami Vivekanand Subharti University — Bachelor of Business Administration
+- Swami Vivekanand Subharti University — Master of Business Administration
+- National Institute of Open Schooling — Senior Secondary Education
+- Summer Fields School — Schooling
+- AAM Infotech — Digital marketing and data analytics with web development
+- DNN24 — Digital marketing internship (September 2024 onward in the source)
+- InAmigos Foundation (IAF) — Social media marketing internship
+- Sanyukt Organisation — Digital marketing internship (June–July 2026)
 
-<!-- Start of picture text -->
-Jquery-85<br>O<br>Node-65<br>O<br>CMD-85<br><!-- End of picture text -->
+### Services
 
-script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> 
+#### Content Marketing
+Create SEO-friendly and engaging content designed to attract the right audience, build brand awareness, and support business and marketing goals.
 
+#### Web Design
+Create sleek, user-friendly, responsive websites that support a brand's goals.
 
+#### Creative Design
+Develop creative and eye-catching designs that bring a brand's vision to life.
 
-<!-- Start of picture text -->
-navigation menu<br><!-- End of picture text -->
+#### Video Editing
+Edit video content into clear, engaging stories for digital platforms.
 
+#### Email Marketing
+Create targeted email campaigns, promotional emails, newsletters, and automated communication to engage audiences and support lead nurturing.
 
+#### Lead Generation
+Use paid advertising, social media, landing pages, content, and targeted campaigns to attract potential customers.
 
-<!-- Start of picture text -->
-Education Experience<br>SWAMI vivekanand subharti University AAM INFOTECH<br>2017-2019 2022-2025<br>Bachelor of Business Administration DIGITAL MARKETER AND DATA Analyst with Web Development<br>SWAMI vivekanand subharti University DNN24<br>2020-2023 Sept 2024 - Dec 2024<br>MASTERS of Business Administration Digital Marketing Intern<br>National Institute of Open Schooling InAmigos Foundation (IAF)<br>2016-2017 Jun 2026 (1month internship)<br>SENIOR SECONDARY Education Social Media Marketing Intern<br>SUMMER FIELDS SCHOOL Sanyukt Organisation<br>2005-2016 Jun 2026 – Jul 2026<br>Schooling till 11th standard Digital Marketing Intern<br>My Service<br>Content Marketing<br><br>Create SEO-friendly and engaging content designed to attract the right audience, build brand awareness, and support business and marketing goals.<br> Web Design<br>Transform Your Ideas into Stunning Websites!  ✨  Elevate your brand with sleek, user-friendly, and responsive web design.<br>Creative Design<br><br>Unlock Creativity with Stunning Designs!  ✨  Bring your vision to life with innovative and eye-catching creative design<br><!-- End of picture text -->
+### Testimonials
 
+The homepage source includes three testimonial cards. The source text describes data-analysis skills, but the supplied names and testimonial copy may be placeholder content. Confirm permission and authenticity before publishing them as real client testimonials.
 
+| Image | Name shown in source | Description shown in source |
+|---|---|---|
+| ![Testimonial portrait 1](assets/testimonial-1.jpg) | Sophia | Data analysis, visualization, statistical analysis, predictive modeling, Python, SQL, Power BI, and Excel. |
+| ![Testimonial portrait 2](assets/testimonial-2.jpg) | Emma | Data visualization, trend forecasting, statistical modeling, SQL, Python, and Power BI. |
+| ![Testimonial portrait 3](assets/testimonial-3.jpg) | James | Data mining, predictive analytics, business intelligence, Python, SQL, and Tableau. |
 
-<!-- Start of picture text -->
-navigation menu<br> Video Editing<br>🎬  Turn Moments into Masterpieces!  ✨  Elevate your content with seamless and engaging video editing<br> Email Marketing<br>"Create targeted email campaigns, promotional emails, newsletters, and automated communication to engage audiences and support lead nurturing."<br>Lead Generation<br><br>Develop digital strategies to attract potential customers through paid advertising, social media, landing pages, content, and targeted campaigns.<br>What Client Say's<br><br>Meet Sophia, a skilled Data Analyst specializing in data visualization, statistical analysis, and predictive modeling. Proficient in Python, SQL, Power BI,<br>and Excel, she transforms complex datasets into actionable insights, helping businesses make data-driven decisions.<br>Sophia<br>Data Analysis<br>©<br><br>Meet Emma, a detail-oriented Data Analyst skilled in data visualization, trend forecasting, and statistical modeling. Proficient in SQL, Python, and<br>Power BI, she transforms complex data into actionable insights, helping businesses make informed decisions.<br>Emma<br>Data Analysis<br>6<br><br>Meet James, a results-driven Data Analyst specializing in data mining, predictive analytics, and business intelligence. Proficient in Python, SQL, and<br>Tableau, he transforms raw data into valuable insights, empowering businesses to make data-driven decisions<br>James<br>Data Analysis<br>GET LATEST UPDATED<br><!-- End of picture text -->
+Additional testimonial portraits were supplied and included in the package:
+- ![Testimonial portrait 4](assets/testimonial-4.jpg)
+- ![Testimonial portrait 5](assets/testimonial-5.jpg)
+- ![Testimonial portrait 6](assets/testimonial-6.jpg)
 
+### Portfolio gallery
 
+The homepage HTML references six gallery images. They are included below without inventing project titles that are not supported by the source.
 
-<!-- Start of picture text -->
-* indicates required<br>navigation menu Email Address *<br>Full Name *<br>Phone Number<br>Last Name<br>Address<br>Address Line 2<br>City State/Province/Region Postal<br>/ Zip<br>Code<br>Country<br>USA<br>View previous campaigns.<br>Subscribe<br><!-- End of picture text -->
+| Gallery image | Preview |
+|---|---|
+| `gallery-1.jpg` | ![Portfolio gallery image 1](assets/gallery-1.jpg) |
+| `gallery-2.jpg` | ![Portfolio gallery image 2](assets/gallery-2.jpg) |
+| `gallery-3.jpg` | ![Portfolio gallery image 3](assets/gallery-3.jpg) |
+| `gallery-4.jpg` | ![Portfolio gallery image 4](assets/gallery-4.jpg) |
+| `gallery-5.jpg` | ![Portfolio gallery image 5](assets/gallery-5.jpg) |
+| `gallery-6.jpg` | ![Portfolio gallery image 6](assets/gallery-6.jpg) |
 
-My Portfolio 
+### Newsletter and contact
 
-navigation menu 
+The source contains a newsletter signup area and a contact form.
 
+**Contact details shown in the source**
+- **Email:** akashhrs57@gmail.com
+- **Phone:** +91 987-011-3409
+- **Location:** Gurgaon, Haryana, India
+- **Website:** https://iakash.digital/
 
+The contact form labels include Full Name, Full Email ID, Full Mobile No., and Address. The application page also includes Email Address, Phone Number, Select Position, file upload, and an experience/message field.
 
-navigation menu 
+## Food blog
 
+The supplied `BLOGPAGE(1).html` and `postpage.html` files form a separate food-blog section. The blog page includes an About Me image and biryani posts.
 
+![Food blog profile image](assets/food-blog-about-me.jpg)
 
+![Chicken biryani](assets/chicken-biryani.jpg)
 
+![Biryani food blog image](assets/biryani-food-blog.jpg)
 
-<!-- Start of picture text -->
-navigation menu<br>x<br><!-- End of picture text -->
+### Blog topic: Biryani
 
-navigation menu 
+The source describes biryani as a South Asian mixed rice dish made with spices, rice, vegetables, and, depending on the recipe, meat or other ingredients. The supplied page includes chicken, veg, and mutton biryani headings.
 
+## Other supplied images
 
+![Food blog background](assets/food-blog-background.jpg)
 
-<!-- Start of picture text -->
-Ome<br>ws < ><br><!-- End of picture text -->
+![Instagram icon](assets/instagram-icon.jpg)
 
-navigation menu 
+![Twitter icon](assets/twitter-icon.jpg)
 
+![Sidebar advertisement artwork](assets/sidebar-advertisement.png)
 
+## Image and source-file corrections
 
-<!-- Start of picture text -->
-\ re 2 3)<br>FP wt VL ny<br><!-- End of picture text -->
+The source HTML refers to filenames such as `about-us.png`, `BIRYANI.jpg`, and `ABOUTME.jpeg`, while the uploaded assets use slightly different filenames. In this Markdown package, images have been copied to descriptive, consistent names under `assets/` and all image links point to those files.
 
+This Markdown file documents the website content and image assets; it does not replace the original HTML/CSS/JavaScript website or change the live website. Before deploying website changes, update the source HTML image paths to match the deployed asset filenames.
 
+## Source files supplied
 
-<!-- Start of picture text -->
-navigation menu<br>k' aya:PY . is),“6 &<br>be.YIN. S aN<br>2 hie \\We OE ee<br>wy Ss<br>=) Ze D<br><!-- End of picture text -->
+- `index(1).html` — main portfolio homepage
+- `main.css` — main site styles
+- `index(1).js` — homepage form/navigation behavior
+- `application(1).html`, `application(1).css`, `application(1).js` — application page and behavior
+- `form(1).php` — PHP form handler
+- `BLOGPAGE(1).html`, `STYLE(1).css` — food blog page and styles
+- `postpage.html`, `post.css` — individual blog post page and styles
+- `PRIVACYPOLICY.html`, `PRIVACYPOLICY.css` — privacy policy page
 
-Get In Touch Full Name... <mark>eee</mark> Full Email Id... <mark>eee</mark> Full Mobile No... ~~eC~~ Enter Address... Submit <mark>eee</mark>  Address 
+## Items to verify before publishing
 
-Gurgaon, Haryana, India 
-
- 
-
-navigation menu 
-
-Phone +91 987-011-3409  Email akashhrs57@gmail.com 
-
-    a (J    CLICK TO KNOW MORE 
-
-script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script asyncFull Name src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> Email Address Phone Number Select Position Choose File No file chosen Tell us about your experience Submit Application 
-
-
-
-©2026 iAkash.Digital 
-
-HEY I AM IAKASH.DIGITAL CLICK HERE TO KNOW MORE 
-
-Home About Project Page Our Clients Our Partner ~~—_—~~ 
-
-
-
-<!-- Start of picture text -->
-5<br><!-- End of picture text -->
-
-iakash.digital 
-
-**Hi, I'm Akash Agarwal, a graphic designer from india.** 
-
-
-
-<!-- Start of picture text -->
-a<br>i %<br>® ) ) "<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Open in Maps<br>navigation menu<br>—at ya a sh QD et<br>Map data ©2026 Terms Report a map error<br>Follow on LinkedIn<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Port folio<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Welcome To https://iakash.digital<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-This site uses cookies from Google to deliver its<br>services and to analyze traffic. Information about your<br>use of this site is shared with Google. By clicking<br>"accept", you agree to its use of cookies. Cookie Policy<br>REJECT ACCEPT<br><!-- End of picture text -->
-
-## <u>MY PROJECTS</u> 
-
-
-
-<!-- Start of picture text -->
-HEY I AM IAKASH.DIGITAL CLICK HERE TO KNOW MORE<br>fo<br>iakash.digital Home About Project Page Our Clients Our Partner<br>© Et .<br>— | (Gy Q<br>“ys SKILLS Trail<br>IAKASH~ :<br>iakash.digital               SKILL_VISION TEXTIILE TRAILS<br>|—— tf ( e<br>FIT_INDIA WOMEN CARE TEXTILE_ZONE<br>GeOon0e<br>ABOUT PAGE<br>a<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-This site uses cookies from Google to deliver its<br>services and to analyze traffic. Information about your<br>use of this site is shared with Google. By clicking<br>"accept", you agree to its use of cookies. Cookie Policy<br>REJECT ACCEPT<br><!-- End of picture text -->
-
-navbarOpen in Maps 
-
-esureyaltey Park i Google ‘ }i signature Towers Map data ©2026 Report a map error <u>Follow on LinkedIn</u> 
-
-
-
-<!-- Start of picture text -->
-he,<br><!-- End of picture text -->
-
-
-
-
-
-<!-- Start of picture text -->
-mm 8<br>Af £e eNee i. we ¥ Hello Friends Welcome to my<br>Food Blog Site<br>. aE<br>& / y<br>~e | A<br>n<br>: Oo ae. =z<br>:<br>‘<br>=e. hh<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-GET MAXIMUM UPDATED<br>* indicates required indicates required My Blog Posts<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-* indicates required indicates required<br>Email Address *<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Full Name *<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Phone Number<br>Last Name<br>View previous campaigns.<br>Subscribe<br>a o o<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-7? CALS OEE<br>_ 3 P;<br>es et Soe iF y<br>chicken Biryani<br>Biryani (/bɜːrˈjɑːni/) is a mixed rice dish<br>originating among the Muslims of South<br>Asia. It is made with spices, vegetables,<br>rice, and usually some type of meat<br>(chicken, beef, goat, lamb, prawn, or<br>fish). In some cases without any meat,<br>[1] and sometimes with eggs and<br>potatoes.[2] Biryani is one of the most<br>popular dishes in South Asia, as well as<br>among the diaspora from the region.<br>Similar dishes are also prepared in<br>other parts of the world such as in Iraq,<br>Myanmar, Thailand, and Malaysia.[3]<br>Biryani is the single most-ordered dish<br>on Indian online food ordering and<br>delivery services, and has been labelled<br>as the most popular dish overall in<br>India.[4][5]<br>GET US UPDATED RIGHT<br>NOW<br>* indicates required<br>Email Address *<br>Full Name *<br>Phone Number<br>Last Name<br>Birthday<br>MM  / DD<br>( mm / dd )<br>Company<br>Subscribe<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-a<br>PLDI we ae 2 PLDI<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-i» rear f<br>PLDI ie a 2<br><!-- End of picture text -->
-
-VEG BIRYANI MUTTON BIRYANI Biryani (/bɜːrˈjɑːni/) is a mixed rice dish Biryani (/bɜːrˈjɑːni/) is a mixed rice dish originating among the Muslims of South originating among the Muslims of South Asia. It is made with spices, vegetables, Asia. It is made with spices, vegetables, rice, and usually some type of meat rice, and usually some type of meat (chicken, beef, goat, lamb, prawn, or (chicken, beef, goat, lamb, prawn, or fish). In some cases without any meat, fish). In some cases without any meat, [1] and sometimes with eggs and [1] and sometimes with eggs and potatoes.[2] Biryani is one of the most potatoes.[2] Biryani is one of the most popular dishes in South Asia, as well as popular dishes in South Asia, as well as among the diaspora from the region. among the diaspora from the region. Similar dishes are also prepared in Similar dishes are also prepared in other parts of the world such as in Iraq, other parts of the world such as in Iraq, Myanmar, Thailand, and Malaysia.[3] Myanmar, Thailand, and Malaysia.[3] Biryani is the single most-ordered dish Biryani is the single most-ordered dish on Indian online food ordering and on Indian online food ordering and delivery services, and has been labelled delivery services, and has been labelled as the most popular dish overall in as the most popular dish overall in India.[4][5] India.[4][5] 
-
-VEG BIRYANI MUTTON BIRYANI MUTTON BIRYANI Biryani (/bɜːrˈjɑːni/) is a mixed rice dish Biryani (/bɜːrˈjɑːni/) is a mixed rice dish Biryani (/bɜːrˈjɑːni/) is a mixed rice dish originating among the Muslims of South Asia. originating among the Muslims of South Asia. originating among the Muslims of South Asia. It is made with spices, vegetables, rice, and It is made with spices, vegetables, rice, and It is made with spices, vegetables, rice, and usually some type of meat (chicken, beef, usually some type of meat (chficken, beef, usually some type of meat (chicken, beef, goat, lamb, prawn, or fish). In some cases goat, lamb, prawn, or fish). In some cases goat, lamb, prawn, or fish). In some cases without any meat,[1] and sometimes with without any meat,[1] and sometimes with without any meat,[1] and sometimes with eggs and potatoes.[2] Biryani is one of the eggs and potatoes.[2] Biryani is one of the eggs and potatoes.[2] Biryani is one of the most popular dishes in South Asia, as well as most popular dishes in South Asia, as well as most popular dishes in South Asia, as well as among the diaspora from the region. Similar among the diaspora from the region. Similar among the diaspora from the region. Similar dishes are also prepared in other parts of the dishes are also prepared in other parts of the dishes are also prepared in other parts of the world such as in Iraq, Myanmar, Thailand, and world such as in Iraq, Myanmar, Thailand, and world such as in Iraq, Myanmar, Thailand, and Malaysia.[3] Biryani is the single most-ordered Malaysia.[3] Biryani is the single most-ordered Malaysia.[3] Biryani is the single most-ordered dish on Indian online food ordering and dish on Indian online food ordering and dish on Indian online food ordering and delivery services, and has been labelled as the delivery services, and has been labelled as the delivery services, and has been labelled as the most popular dish overall in India.[4][5] most popular dish overall in India.[4][5] most popular dish overall in India.[4][5] 
-
-
-
-<!-- Start of picture text -->
-About Me<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-— y<br>ee 4<br>gem /<br>»<br>.<br>47 ,<br>M<br>oi<br>‘ -—<br>“~~ 1<br>,<br>f ; |<br>1<br>Aye<br>:<br>> :<br>~"<br>r<br>-<br>a<br>ei<br>Z Ps a W,<br>-- —* i<br>—_ ware;<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Job application form for   iAkash<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-Digital<br><!-- End of picture text -->
-
-**Welcome to iAkash Digital – Your Digital Growth Partner!** � Thank you for reaching out to **<u>iAkash Digital</u>** <u>, where we help businesses grow</u> through **SEO, social media marketing, content strategy, and digital advertising** . � If you’re a **business owner** , fill out this form to request a consultation for our services. � If you’re looking to **join our team** , submit your job application here. � For any other **collaborations or inquiries** , let us know how we can assist you! We’ll review your submission and get back to you shortly. � � **Website:** <u>https://iakash.digital</u> 
-
-<u>Connectez-vous à Google</u> pour enregistrer votre progression. En savoir plus 
-
-* Indique une question obligatoire Name * First and last name 
-
-Votre réponse 
-
-Email * Votre réponse 
-
-Phone number * 
-
-Votre réponse 
-
-Which position(s) are you interested in? * oO digtal marketing oO social media marketing Oo affiliate marketing oO SEO specialist 
-
-Submit your cover letter or resume 
-
-Votre réponse 
-
-I am a Foodie... Copyright © 2020 All Rights Reserved by iakashdigital Contact me by iakashdigital 
-
-
-
-   script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script async 
-
-src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> navbar 
-
-
-
-navbarOpen in Maps 
-
-
-
-
-
-<!-- Start of picture text -->
-ar ig ed lakashDigital<br>Nikeeh  EactorySore Store S ~<br>OR1414 ao?Ri<br>aoe 48<br>ne \ P co)<br>ye Leisure Valley Park ©,<br>Vga Yecosle / {<br>Signature Towers (| Map data ©2026 . Report a map error Follow on LinkedIn<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-a e LOL theepo)<br>4 mers =. . ‘ . lf |<br>A Oe ee ee)<br>) (EY A eet x PANG i<br>4 NPS ANSj Vr ,.<br>IX ae Ay. Cee | fet<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-World Famous Hyderabadi CHICK<br>Delhi Food Walks<br>Watch on<br><!-- End of picture text -->
-
-# WORLD MOST FAMOUSE HYDERABAD Biryani 
-
-Biryani (/bɜːrˈjɑːni/) is a mixed rice dish originating among the Muslims of South Asia. It is made with spices, vegetables, rice, and usually some type of meat (chicken, beef, goat, lamb, prawn, or fish). In some cases without any meat,[1] and sometimes with eggs and potatoes.[2] Biryani is one of the most popular dishes in South Asia, as well as among the diaspora from the region. Similar dishes are also prepared in other parts of the world such as in Iraq, Myanmar, Thailand, and Malaysia.[3] Biryani is the single most-ordered dish on Indian online food ordering and delivery services, and has been labelled as the most popular dish overall in India.[4][5] 
-
-
-
-<!-- Start of picture text -->
-Na ed<br>IakashDigital Genpact a D<br>HOUSE NO 790, Sector 17A, Se…<br>No reviews<br>Y b27 SECT<br>On ae<br>o a Sarhol<br>ae yaranl? Marg" % ce<br>ONike Factory Store Se eae Ree<br>ati<br>z SECTORBaez 1414 wo“<br>Fa are 7 Iffeo Chowk a<br>= & nes ‘ 2 © saat chen<br>Vvae ¢ 0_— LelsureyaleyG  parki@,”<br>ee eS) yoogee Galleria Market<br>co oo Signature Towers Ak certan 20 Map data ©2026 Report a map error<br>Copyright © 2020 All Rights Reserved by iakashdigital<br>Contact me by iakashdigital<br><!-- End of picture text -->
-
-
-
-<!-- Start of picture text -->
-  <br><!-- End of picture text -->
-
-script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2775019145294468" crossorigin="anonymous"> 
+1. Confirm the testimonial names, portraits, and wording are genuine and authorized.
+2. Review the education and experience dates because the source text has some unclear or inconsistent labels.
+3. Confirm that the contact form actually sends and stores submissions; the supplied JavaScript alone displays a success popup and resets the form.
+4. Review third-party analytics, advertising scripts, and privacy disclosures in the source files.
+5. Ensure every image path used in the deployed HTML matches the uploaded asset filename.
