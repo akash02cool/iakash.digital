@@ -1,174 +1,118 @@
-# iAkash Digital — Website Content & Image Guide
+# iAkash Digital — Website Guide
 
-> Cleaned and reorganized from the supplied `index(1).html`, `main.css`, `postpage.html`, `post.css`, `BLOGPAGE(1).html`, `STYLE(1).css`, and uploaded image assets. Local images are stored in the `assets/` folder included in the ZIP package.
-
-## Brand
-
-![iAkash Digital logo](assets/iakash-digital-logo.png)
+This Markdown file uses image files already present in the public GitHub repository [`akash02cool/iakash.digital`](https://github.com/akash02cool/iakash.digital). It does not create duplicate image assets.
 
 **Website:** https://iakash.digital/  
+**GitHub repository:** https://github.com/akash02cool/iakash.digital  
 **Brand:** iAkash Digital  
-**Tagline:** Digital Marketing Specialist Helping Businesses Grow Online  
-**Services focus:** SEO, Google Ads, Meta Ads, social media, content marketing, analytics, graphic design, and web development.
+**Tagline:** Digital Marketing Specialist Helping Businesses Grow Online
 
-## Homepage
+## Brand and profile
 
-### Hero and introduction
+![iAkash Digital logo](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/LOGO.png)
 
-![Akash Agarwal — profile image](assets/about-akash.png)
+![About iAkash Digital profile image](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/about-us.png)
 
-**Hi, I'm Akash Agarwal.**  
-Digital marketing, graphic design, and web development services focused on helping businesses grow online.
+Akash Agarwal works across digital marketing, graphic design, content creation, data analytics, and web development.
 
-Primary calls to action:
-- View My Work
-- View My Resume
-- Contact Me
+## Services
 
-### About
+- **SEO and content marketing:** Search-friendly content, keyword research, and organic visibility.
+- **Google Ads and Meta Ads:** Paid advertising and campaign optimization.
+- **Social media marketing:** Content planning, creative development, and engagement.
+- **Graphic design:** Digital creatives and visual communication.
+- **Web design and development:** Responsive websites and frontend development.
+- **Email marketing:** Campaigns, newsletters, and audience communication.
+- **Lead generation:** Digital campaigns and landing pages to attract prospective customers.
+- **Video editing:** Editing and preparing video content for digital channels.
 
-The homepage source uses the profile image for the About section and describes services including SEO, Google Ads, Meta Ads, social media, content marketing, and analytics.
+## Skills and technology images
 
-### Skills
+![JavaScript logo](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/javas.png)
 
-The source lists web-development skills and percentages. These are transcribed from the website content and are not independently verified:
+![Python logo](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/python.jpg)
 
-- HTML — 95%
-- CSS — 91%
-- JavaScript — 85%
-- React.js — 79%
-- jQuery — 85%
-- Node.js — 65%
-- CMD — 85%
+![PHP logo](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/php.png)
 
-Related skill images supplied with the project:
+![TypeScript logo](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/ts.jpg)
 
-![JavaScript logo](assets/javascript-logo.png)
+The website source also lists HTML, CSS, JavaScript, React.js, jQuery, Node.js, and other web-development skills. Skill percentages shown on the website are self-reported and are not independently verified here.
 
-![PHP logo](assets/php-logo.png)
+## Portfolio gallery
 
-![Python logo](assets/python-logo.jpg)
+The repository contains six gallery images used by the portfolio website.
 
-![TypeScript logo](assets/typescript-logo.jpg)
+![Portfolio gallery image 1](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/gallery-1.jpg)
 
-### Education and experience
+![Portfolio gallery image 2](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/gallery-2.jpg)
 
-The website source contains the following education and experience entries. Some dates and labels in the original page are unclear, so they have been retained only where readable:
+![Portfolio gallery image 3](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/gallery-3.jpg)
 
-- Swami Vivekanand Subharti University — Bachelor of Business Administration
-- Swami Vivekanand Subharti University — Master of Business Administration
-- National Institute of Open Schooling — Senior Secondary Education
-- Summer Fields School — Schooling
-- AAM Infotech — Digital marketing and data analytics with web development
-- DNN24 — Digital marketing internship (September 2024 onward in the source)
-- InAmigos Foundation (IAF) — Social media marketing internship
-- Sanyukt Organisation — Digital marketing internship (June–July 2026)
+![Portfolio gallery image 4](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/gallery-4.jpg)
 
-### Services
+![Portfolio gallery image 5](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/gallery-5.jpg)
 
-#### Content Marketing
-Create SEO-friendly and engaging content designed to attract the right audience, build brand awareness, and support business and marketing goals.
+![Portfolio gallery image 6](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/gallery-6.jpg)
 
-#### Web Design
-Create sleek, user-friendly, responsive websites that support a brand's goals.
+## Testimonials
 
-#### Creative Design
-Develop creative and eye-catching designs that bring a brand's vision to life.
+The repository contains testimonial image assets. Confirm that the names, images, and statements are authentic and authorized before presenting them as real client endorsements.
 
-#### Video Editing
-Edit video content into clear, engaging stories for digital platforms.
+![Testimonial image 1](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/testimonial-1.jpg)
 
-#### Email Marketing
-Create targeted email campaigns, promotional emails, newsletters, and automated communication to engage audiences and support lead nurturing.
+![Testimonial image 2](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/testimonial-2.jpg)
 
-#### Lead Generation
-Use paid advertising, social media, landing pages, content, and targeted campaigns to attract potential customers.
+![Testimonial image 3](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/testimonial-3.jpg)
 
-### Testimonials
+![Testimonial image 4](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/testimonial-4.jpg.jpg)
 
-The homepage source includes three testimonial cards. The source text describes data-analysis skills, but the supplied names and testimonial copy may be placeholder content. Confirm permission and authenticity before publishing them as real client testimonials.
+![Testimonial image 5](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/testimonial-5.jpg.jpg)
 
-| Image | Name shown in source | Description shown in source |
-|---|---|---|
-| ![Testimonial portrait 1](assets/testimonial-1.jpg) | Sophia | Data analysis, visualization, statistical analysis, predictive modeling, Python, SQL, Power BI, and Excel. |
-| ![Testimonial portrait 2](assets/testimonial-2.jpg) | Emma | Data visualization, trend forecasting, statistical modeling, SQL, Python, and Power BI. |
-| ![Testimonial portrait 3](assets/testimonial-3.jpg) | James | Data mining, predictive analytics, business intelligence, Python, SQL, and Tableau. |
-
-Additional testimonial portraits were supplied and included in the package:
-- ![Testimonial portrait 4](assets/testimonial-4.jpg)
-- ![Testimonial portrait 5](assets/testimonial-5.jpg)
-- ![Testimonial portrait 6](assets/testimonial-6.jpg)
-
-### Portfolio gallery
-
-The homepage HTML references six gallery images. They are included below without inventing project titles that are not supported by the source.
-
-| Gallery image | Preview |
-|---|---|
-| `gallery-1.jpg` | ![Portfolio gallery image 1](assets/gallery-1.jpg) |
-| `gallery-2.jpg` | ![Portfolio gallery image 2](assets/gallery-2.jpg) |
-| `gallery-3.jpg` | ![Portfolio gallery image 3](assets/gallery-3.jpg) |
-| `gallery-4.jpg` | ![Portfolio gallery image 4](assets/gallery-4.jpg) |
-| `gallery-5.jpg` | ![Portfolio gallery image 5](assets/gallery-5.jpg) |
-| `gallery-6.jpg` | ![Portfolio gallery image 6](assets/gallery-6.jpg) |
-
-### Newsletter and contact
-
-The source contains a newsletter signup area and a contact form.
-
-**Contact details shown in the source**
-- **Email:** akashhrs57@gmail.com
-- **Phone:** +91 987-011-3409
-- **Location:** Gurgaon, Haryana, India
-- **Website:** https://iakash.digital/
-
-The contact form labels include Full Name, Full Email ID, Full Mobile No., and Address. The application page also includes Email Address, Phone Number, Select Position, file upload, and an experience/message field.
+![Testimonial image 6](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/testimonial-6.jpg.jpg)
 
 ## Food blog
 
-The supplied `BLOGPAGE(1).html` and `postpage.html` files form a separate food-blog section. The blog page includes an About Me image and biryani posts.
+The repository also includes assets for the separate food-blog pages.
 
-![Food blog profile image](assets/food-blog-about-me.jpg)
+![Food blog About Me image](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/ABOUTME.jpeg)
 
-![Chicken biryani](assets/chicken-biryani.jpg)
+![Biryani blog image](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/BIRYANI.jpg)
 
-![Biryani food blog image](assets/biryani-food-blog.jpg)
+![Food blog background image](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/BAGROUND%20IMAGE.jpeg)
 
-### Blog topic: Biryani
+The blog source includes posts and headings about chicken, vegetarian, and mutton biryani.
 
-The source describes biryani as a South Asian mixed rice dish made with spices, rice, vegetables, and, depending on the recipe, meat or other ingredients. The supplied page includes chicken, veg, and mutton biryani headings.
+## Site icons and social images
 
-## Other supplied images
+![Website icon 192 by 192](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/android-chrome-192x192.png)
 
-![Food blog background](assets/food-blog-background.jpg)
+![Website icon 512 by 512](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/android-chrome-512x512.png)
 
-![Instagram icon](assets/instagram-icon.jpg)
+![Apple touch icon](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/apple-touch-icon.png)
 
-![Twitter icon](assets/twitter-icon.jpg)
+![Instagram image asset](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/instagram.jpeg)
 
-![Sidebar advertisement artwork](assets/sidebar-advertisement.png)
+![Twitter image asset](https://raw.githubusercontent.com/akash02cool/iakash.digital/main/twitter.jpg)
 
-## Image and source-file corrections
+## Contact details shown in the supplied website source
 
-The source HTML refers to filenames such as `about-us.png`, `BIRYANI.jpg`, and `ABOUTME.jpeg`, while the uploaded assets use slightly different filenames. In this Markdown package, images have been copied to descriptive, consistent names under `assets/` and all image links point to those files.
+- **Website:** https://iakash.digital/
+- **Email:** akashhrs57@gmail.com
+- **Phone:** +91 987-011-3409
+- **Location:** Gurgaon, Haryana, India
 
-This Markdown file documents the website content and image assets; it does not replace the original HTML/CSS/JavaScript website or change the live website. Before deploying website changes, update the source HTML image paths to match the deployed asset filenames.
+## Source pages in the GitHub repository
 
-## Source files supplied
+- [`index.html`](https://github.com/akash02cool/iakash.digital/blob/main/index.html) — main portfolio homepage
+- [`main.css`](https://github.com/akash02cool/iakash.digital/blob/main/main.css) — main website styles
+- [`index.js`](https://github.com/akash02cool/iakash.digital/blob/main/index.js) — homepage JavaScript
+- [`application.html`](https://github.com/akash02cool/iakash.digital/blob/main/application.html) — application page
+- [`BLOGPAGE.html`](https://github.com/akash02cool/iakash.digital/blob/main/BLOGPAGE.html) — food blog page
+- [`postpage.html`](https://github.com/akash02cool/iakash.digital/blob/main/postpage.html) — individual blog post
+- [`PRIVACYPOLICY.html`](https://github.com/akash02cool/iakash.digital/blob/main/PRIVACYPOLICY.html) — privacy policy
 
-- `index(1).html` — main portfolio homepage
-- `main.css` — main site styles
-- `index(1).js` — homepage form/navigation behavior
-- `application(1).html`, `application(1).css`, `application(1).js` — application page and behavior
-- `form(1).php` — PHP form handler
-- `BLOGPAGE(1).html`, `STYLE(1).css` — food blog page and styles
-- `postpage.html`, `post.css` — individual blog post page and styles
-- `PRIVACYPOLICY.html`, `PRIVACYPOLICY.css` — privacy policy page
+## Notes
 
-## Items to verify before publishing
-
-1. Confirm the testimonial names, portraits, and wording are genuine and authorized.
-2. Review the education and experience dates because the source text has some unclear or inconsistent labels.
-3. Confirm that the contact form actually sends and stores submissions; the supplied JavaScript alone displays a success popup and resets the form.
-4. Review third-party analytics, advertising scripts, and privacy disclosures in the source files.
-5. Ensure every image path used in the deployed HTML matches the uploaded asset filename.
+- Image links point to the public GitHub repository's `main` branch using raw GitHub URLs.
+- If a file is renamed, moved, or the default branch changes, its Markdown image link must be updated.
+- This Markdown file documents the repository; it does not change the live website or the GitHub repository.
